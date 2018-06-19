@@ -11,7 +11,7 @@ weight: 10
 |MLS Number &emsp; A10487239|Status &emsp; For Sale|
 |Offered At &emsp; $580,000|Built &emsp; 1972|
 |Bedrooms &emsp; 4|Pool &emsp; 1|
-|Bathrooms &emsp; 2|Lot Size &emsp; 15,0000|
+|Bathrooms &emsp; 2|Lot Size &emsp; 15,000|
 |Living Area &emsp; 2,543 sf|
 
 ## 12542 SW 107 Ct Miami, FL 33176

@@ -1,6 +1,6 @@
 title = ""
 baseURL = "https://www.featuredlistingforsale.com"
-tags = ["portfolio", "web design", "blog"]
+tags = ["miami", "real estate", "listing"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
