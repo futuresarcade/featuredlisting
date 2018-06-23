@@ -1,4 +1,4 @@
-title = ""
+title = "12542 SW 107 Ct Miami, FL 33176"
 baseURL = "https://www.featuredlistingforsale.com"
 tags = ["miami", "real estate", "listing"]
 languageCode = "en-US"
@@ -10,7 +10,7 @@ disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "12542 SW 107 CT. MIAMI 33176"
+    tagline = ""
     author = "Toma Nistor"
     description = "Pine Shore! 4/2 Empire model, family home, newer roof 2013, wood & porcelain tile, sitting on a 15,000 SQ. FT."
     logoBig = ""
