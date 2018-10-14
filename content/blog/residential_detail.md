@@ -14,7 +14,7 @@ weight: 10
 |Bathrooms &emsp; 2|Lot Size &emsp; 15,000|
 |Living Area &emsp; 2,543 sf|
 
-### 12542 SW 107 Ct Miami, FL 33176
+### 12542 SW 107 Ct Miami, FL 33176.
 
 Pine Shore! 4/2 Empire model, family home, newer roof 2013, wood & porcelain tile, open feeling, sitting on a 15,000 SQ. FT.
 <div class="google-maps">
