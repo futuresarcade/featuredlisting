@@ -45,7 +45,7 @@
                 {{ range after 3 $galleryReverse }}
                     <!-- Where gallery items are divisible by 3, they will appear in columns of 3 -->
                     {{ $col := (mod $galleryTotal 3) }}
-                    <div class="col-xs-12 col-md-6
+                    <div class="col-xs-12 col-md-3
                     {{ if gt $galleryTotal 5 }}
                         {{ if eq $col 0 }} col-lg-4
                         {{ else }} col-lg-3
@@ -71,7 +71,7 @@
             {{ range $galleryReverse }}
                 <!-- Where gallery items are great than 7 and are divisible by 4, they will appear in colums of 4, else in colums of 2 or 3 -->
                 <div class="col-xs-12
-                {{ if gt $galleryTotal 1 }} col-md-6
+                {{ if gt $galleryTotal 1 }} col-md-3
                     {{ if gt $galleryTotal 7 }}
                         {{ if modBool $galleryTotal 4 }} col-lg-3
                         {{ else }} col-lg-4
